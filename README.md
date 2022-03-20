@@ -12,7 +12,7 @@ rename hsqldb.jar to hsqldb.jar_latestjava_backup
 rename hsqldb-jdk8.jar to hsqldb.jar
 
 
-Sample commonds to start hsqldb
+Sample command to start hsqldb
 CD -> C:\Windows\System32\cmd.exe
 -> java -classpath lib/hsqldb.jar org.hsqldb.server.Server --database.0 file:hsqldb/demodb --dbname.0 testdb
 
