@@ -16,6 +16,9 @@ Sample command to start hsqldb
 CD -> C:\Windows\System32\cmd.exe
 -> java -classpath lib/hsqldb.jar org.hsqldb.server.Server --database.0 file:hsqldb/demodb --dbname.0 testdb
 
+![image](https://user-images.githubusercontent.com/37682481/159159754-d07c0e8a-8c7b-4a17-abb2-6614d3481cbc.png)
+
+
 HSQL DB UI utility start command 
 cd -> C:\hsqldb-2.6.0\hsqldb\bin
 dubble click on -> runManagerSwing.bat
