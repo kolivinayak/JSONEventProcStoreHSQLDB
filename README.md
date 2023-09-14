@@ -26,3 +26,12 @@ dubble click on -> runManagerSwing.bat
 ![image](https://user-images.githubusercontent.com/37682481/159160008-3009e8b6-e463-4963-9d0e-2afa0ccc98d9.png)
 
 ![image](https://user-images.githubusercontent.com/37682481/159160038-8ccca98d-45a8-450c-8aa2-60d8373e6e65.png)
+
+
+Rest Assured Framework for API testing 
+
+Install NPM and install JSON server< Its already installed>
+Then move to user dir and run command as below 
+jSON-Server db.json
+This will start JSON server then access it by browser www.localhost:3000
+JSON server is up and running an can be used tbrough restAssured framework
